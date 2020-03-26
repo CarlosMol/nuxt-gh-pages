@@ -2,6 +2,9 @@
 
 > My impressive Nuxt.js project
 
+Libreria utilizada
+https://github.com/google/diff-match-patch
+
 ## Build Setup
 
 ```bash
