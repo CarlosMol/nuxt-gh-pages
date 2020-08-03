@@ -5,6 +5,9 @@
 Libreria utilizada
 https://github.com/google/diff-match-patch
 
+Live demo
+https://carlosmol.github.io/nuxt-gh-pages/
+
 ## Build Setup
 
 ```bash
